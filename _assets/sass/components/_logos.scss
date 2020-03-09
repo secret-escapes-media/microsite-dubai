@@ -5,18 +5,17 @@
   width: 100%;
   &--se {
     max-width: 140px;
-    padding-top: 3px;
+    padding-top: 2px;
     @include bp($md){
       max-width: 170px;
-      padding-top: 4px;
     }
     &-sm {
       max-width: 120px;
-      padding-top: 2px;
+      padding-top: 1px;
     }
   }
   &--partner { // max-width for this is about 150x46px
-    max-width: 120px;
-    &-sm { max-width: 100px; }
+    max-width: 85px;
+    &-sm { max-width: 70px; }
   }
 }

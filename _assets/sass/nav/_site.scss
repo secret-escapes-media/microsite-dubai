@@ -3,7 +3,7 @@
 $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
 $nav-width-bp:       640px;
-$nav-color:          $orange-dark;
+$nav-color:          $white;
 
 
 // global site nav height
@@ -77,7 +77,7 @@ $nav-color:          $orange-dark;
   &__item {
     display: flex;
     flex: 1 0 auto;
-    border-right: 1px solid rgba($white,.15);
+    border-right: 1px solid rgba($white,.5);
     &:last-child { border-right: 0; }
   }
   &__link {
@@ -87,12 +87,12 @@ $nav-color:          $orange-dark;
     justify-content: center;
     padding-left: $s4;
     padding-right: $s4;
-    font-family: $font-core;
+    font-family: $sans;
     font-weight: 700;
     font-size: 11px;
     letter-spacing: .2em;
     text-transform: uppercase;
-    color: $white;
+    color: $grey-darker;
     transition: background-color $transition-time ease;
     white-space: nowrap;
     &.is-current      { background-color: rgba($nav-color,.66); }

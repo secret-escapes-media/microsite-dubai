@@ -1,7 +1,7 @@
 // Offer block styles
 
 $circle-height: 3.4rem; // height for arrow and saved number
-$offer-max-width: 600px;
+$offer-max-width: 560px;
 
 .offer {
   position: relative;
@@ -9,6 +9,7 @@ $offer-max-width: 600px;
   max-width: $offer-max-width;
   margin-left: auto;
   margin-right: auto;
+  @include shadow;
   &__link {
     position: absolute;
     top: 0;
@@ -25,22 +26,19 @@ $offer-max-width: 600px;
     @include transition;
     &:hover {
       opacity: 1;
-      background-color: rgba($grey-darkest,.33);
+      background-color: rgba($grey-darkest,.5);
       color: $white;
       .touch & { opacity: 0; }
     }
   }
   &__content {
     padding: $s2;
-    border-left: 1px solid $grey-lighter;
-    border-right: 1px solid $grey-lighter;
-    border-bottom: 1px solid $grey-lighter;
     background-color: $white;
   }
   &__location {
-    margin-top: .9em;
+    margin-top: 1em;
     margin-left: 1.5em;
-    margin-bottom: 1.15em;
+    margin-bottom: 1em;
     text-indent: -1.5em;
     font-size: 0.75em;
     line-height: 1.5;
@@ -67,7 +65,7 @@ $offer-max-width: 600px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: $s2;
+    padding-top: $s0;
   }
   &__arrow {
     display: none;
@@ -76,10 +74,10 @@ $offer-max-width: 600px;
     min-width: $circle-height;
     min-height: $circle-height;
     margin-left: $s-3;
-    border: 1px solid $orange;
+    background-color: $orange;
     border-radius: $circle-height;
     background-repeat: no-repeat;
-    background-image: url('../img/icons/arrow-right-orange.svg');
+    background-image: url('../img/icons/arrow-right-white.svg');
     background-size: auto ($circle-height/2.25);
     background-position: 52% center;
     flex-basis: $circle-height;
@@ -93,19 +91,20 @@ $offer-max-width: 600px;
     align-items: center;
     align-self: stretch;
     flex-shrink: 0;
-    margin-right: $s-1;
-    padding-right: $s-1;
+    margin-right: $s1;
+    padding-right: $s1;
     border-right: 1px solid $grey-lighter;
     text-align: center;
     &-percent {
       width: $circle-height;
       height: $circle-height;
-      margin-top: $s-5;
-      color: #fff;
-      font-weight: 600;
+      margin-top: $s-6;
+      color: $turquoise;
+      font-weight: 700;
       letter-spacing: 0;
-      line-height: $circle-height;
-      background-color: $orange;
+      line-height: ($circle-height - .2);
+      background-color: $white;
+      border: 1px solid rgba($turquoise,.40);
       border-radius: $circle-height;
     }
     &-label {
@@ -137,14 +136,13 @@ $offer-max-width: 600px;
   }
   &__details {
     flex-grow: 1;
-    > div + div { padding-top: $s-10; }
   }
   &__price {
     color: $orange;
-    font-size: $s2;
+    font-size: $s3;
     font-weight: 600;
     line-height: 1;
-    letter-spacing: 0;
+    letter-spacing: -.02em;
   }
 
   // dark offer card styles
@@ -154,8 +152,8 @@ $offer-max-width: 600px;
      border-bottom: 0;
      background-color: lighten($grey-darkest,4);
    }
-   &#{&}--dark &__separator           { background-color: $grey-dark; }
-   &#{&}--dark &__location            { color: $grey-lighter;}
-   &#{&}--dark &__content .core-title { color: $white;}
+   &#{&}--dark &__separator      { background-color: $grey-dark; }
+   &#{&}--dark &__location       { color: $grey-lighter;}
+   &#{&}--dark &__content .title { color: $white;}
 
 }

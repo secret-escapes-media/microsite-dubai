@@ -1,0 +1,72 @@
+- id: beaches
+  title: Beach Diversity in&nbsp;Dubai
+  nav-title: Dream Beaches
+  description: Dubai as a beach destination? Yes, the emirate always offers the right strip of sand on the Arabian Gulf for water sports enthusiasts, families and friends of seclusion.
+  pois:
+    - id: la-mer
+      title: La Mer
+      description: The beach and entertainment area La Mer has been extending between Pearl Jumeirah and Jumeirah Bay since autumn 2017. Fantastic views of the Dubai skyline are contrasted by the DIY design of the facility, an urban playground with a focus on sustainability. Families are well served with the Hawa Hawa trampoline and the Laguna Waterpark, connoisseurs will find all kinds of specialties to try themselves out (such as the HQ 459 with full-day breakfast). Need a selfie? Then go to one of the pop art-inspired graffiti and find your Instagram motif.
+    - id: for-purists-black-palace-beach
+      title: "For purists: Black Palace Beach"
+      description: "Less frills, more beach. Whether you want to watch the game of the waves, immerse yourself in holiday reading or look at the palm island of Jumeirah and the Burj Al Arab in the distance, you will be quite undisturbed at Black Palace Beach. At the same time, the hidden beach is perfect for water lovers with a self-catering train: here no restaurants or shops interfere with your beach meditation, you need to bring your own parasol and the like. A fair deal if the reward for it is pure sand and sea pleasure."
+    - id: for-sun-worshipers-sunset-beach
+      title: "For sun worshipers: Sunset Beach"
+      description: "The place for unforgettable sundowners is Sunset Beach, also known as Umm Suqeim Beach. Here you are in the immediate vicinity of the Burj Al Arab, which provides impressive photo opportunities, especially in the evenings. During the day you can simply indulge in the sun and the Arabian Gulf or borrow an exciting volume from the beach library. Special feature: Umm Suqeim Beach is one of the few places in Dubai where night swimming is allowed (until midnight)."
+    - id: surfin-uae-kite-beach
+      title: "Surfin 'UAE: Kite Beach"
+      description: "Its name already tells: Kite Beach is a nirvana for outdoor fanatics. Kite surfing, stand-up paddle boarding, kayaking, the spot is the first address for all these activities, especially when the wind increases in the afternoon. On land, you can also enjoy a sporty pastime with beach volleyball - or you can use the 14 km jogging route to keep fit. Watch the skaters in the largest skate park in the United Arab Emirates at your ollies and head to the Salt Café after so much action to crown the beach day with burgers."
+
+- id: culture
+  title: Culture
+  description: Dubai's historical past permeates the city and can be felt in Al Fahidi and its souks. Dubai's present and future are outlined in the galleries and event spaces in Al Quoz.
+  pois:
+    - id: al-fahidi-al-seef
+      title: Al Fahidi & Al Seef
+      description: The greatest possible contrast to Dubai's skyscrapers is the historic Al Fahidi district in Bur Dubai. Thanks to its strategic location on Dubai Creek, Al Fahidi, a formerly eminently important district, is characterized by traditional wind tower houses and narrow streets. The redesigned Al Seef follows in the immediate vicinity, where tradition and modernity merge. Visit the floating market with regional handicrafts and stock up with designers from Arabia and the rest of the world.
+    - id: traditional-souks
+      title: Traditional souks
+      description: "In the heart of the Emirate, on Dubai Creek, a classic Arabic experience awaits: the souks (markets or bazaars). Magnificent displays of jewelry and jewelery in the gold souk - you will rub your eyes! (Hobby) cooks can look forward to the flavors in the spice souk. Do you like fragrances? In addition to fragrant bottles, the perfume souk also has essential oils and incense sticks. Combine your latest fragrance with silk from the textile souk and the transformation is complete."
+    - id: etihad-museum
+      title: Etihad Museum
+      description: What was life like in Dubai before the merger of the seven emirates? The Etihad Museum provides clear answers on 25,000 square meters. The main focus of the museum is on the years between 1968 and 1974, when the country on the Arabian Gulf gained its independence. Boredom and dusty pedagogy are far away in the interactive pavilions, and aesthetics are also taken care of. The extremely strikingly curved roof of the institution is the work of Canadians Moriyama & Teshima.
+    - id: al-quoz-and-alserkal-avenue
+      title: Al Quoz and Alserkal Avenue
+      description: "Warehouses for galleries, factories for museums: Al Quoz and Alserkal Avenue are thriving art districts. Here artists and writers come together in the A4 Space to exchange ideas and collaborate; In The Fridge you will not find chilled food, but concerts or events and over 15 galleries on Alserkal Avenue promote regional and international art. After so much history lesson in the other parts of the city, a successful change."
+
+- id: sightseeing
+  title: Sightseeing
+  description: "There is always something to see in Dubai. No wonder, there is hardly any building anywhere in the world like this. A gigantic picture frame, a new channel, a museum of the future: see your fill!"
+  pois:
+    - id: dubai-frame
+      title: Dubai frame
+      description: Is Dubai a picture for eternity? The metropolis has had a picture frame at least since 2018. The Dubai Frame, created as an optical interface between old Dubai on the creek and new Dubai along Sheikh Zayed Road, is in Zabeel Park. From 150m high there are great photo opportunities on the districts of Dubai. And for the special tingling of the stomach, the 90m-long transition sometimes offers a glass floor!
+    - id: burj-khalifa-fountains-opera
+      title: Burj Khalifa, Fountains & Opera
+      description: Dubai's landmark stretches 828 meters into the Arabian sky. Right next door is the Dubai Fountain - with its up to 150m high water columns one of the largest fountains in the world. In front of the Dubai Mall, thundering jets of water every 30 minutes impress visitors and residents alike. The trio completes the neighboring Dubai Opera, which offers a diverse program of operas, musicals, concerts or classical dance performances.
+    - id: dubai-creek-water-canal
+      title: Dubai Creek, Water Canal
+      description: The Dubai Creek is still the lifeline of this vibrant desert city. Wooden transport ships, so-called dhows, bring goods from the neighboring countries. Abras, small water taxis, transport residents between the Bur Dubai and Deira districts. Lifestyle facilities such as hotels and bars, walking paths and parks are being built on the banks of the newly created Business Bay Canal and the 3.2 km long Water Canal. The intersection of the Water Canal and Sheikh Zayed Road is marked by an illuminated waterfall.
+    - id: museum-of-the-future
+      title: Museum of the Future
+      description: The future is dreamed, created and proudly presented here in Dubai. A good example is the Future Museum, which is slated to open in 2020, but has long since caught the media worldwide. Its futuristic shape resembles an ellipse, the construction is partly inspired by the DNA double helix, the realization is only possible due to the very latest technologies. And the inside? Instead of exhibiting cultural certificates of the past, the museum dares to look ahead and ask questions about robots and AI and the relationship between man and machine.
+
+- id: adventure
+  title: Adventure & Activities
+  nav-title: Adventure
+  description: "No boredom: numerous water parks and malls ensure this in Dubai. And if you leave the city behind, you will find yourself in a world full of dunes and mountains that is just as fascinating."
+  pois:
+    - id: hatta-hajar-mountains
+      title: Hatta & Hajar Mountains
+      description: Dubai's Hatta exclave is around 100 kilometers to the south in the Hajar Mountains. The trend destination is a popular outdoor destination that is also worthwhile for ecotourism. Whether as a day trip or a longer break from the city, Hatta impresses with natural beauty and cultural sites that want to be explored by bike, on the back of a camel or while hiking. There are several options for staying overnight between 4-star hotels or glamping, in any case you should not miss the starry night sky.
+    - id: desert-fun
+      title: Desert fun
+      description: "A visit to Dubai is probably not complete without it: a desert safari. Conquer the sand dunes classically in an off-road vehicle - or in a vintage Land Rover - and combine the excursion with an Emirati breakfast or at night with an astronomy tour. Animals such as the Arabian antelope greet along the way. But there are also adrenaline-fueled adventures: what would it be like to drive through the sandy landscape by quad bike or practice sandboarding on a dune?"
+    - id: water-parks
+      title: Water parks
+      description: Perhaps it is because of the desert that Dubai has so much to do with water parks. At least it seems that you could go from slide to slide for a whole vacation. Starting with the Aquaventure water park, which mixes adrenaline kicks with Dubai maximumism, through the Wild Wadi water park, which has been attracting water rats since 1999, to the obstacle course in AquaFun. And in the new beach district of La Mer you will find the Laguna Waterpark.
+    - id: shopping-adventures-the-pointe-dubai-mall
+      title: "Shopping adventures: The Pointe, Dubai Mall"
+      description: Can you find your way in the Marche forest? The Dubai Mall covers an area of ​​200 soccer fields with over 1,200 shops and hundreds of options for hunger and thirst. Gucci & Valentino are waiting on Fashion Avenue, sharks and rays in the Dubai Aquarium, steak & truffles in Gallery Lafayette. The new promenade The Pointe on Palm Jumeirah Island is a bit clearer. Brand hunting is also well catered for here, followed by entertainment (as in the dine-in cinema) and snapshots against the backdrop of the bay of the luxury hotel Atlantis, The Palm.
+    - id: dubai-expo-2020
+      title: Dubai Expo 2020
+      description: Be there at the world's largest show, Expo 2020 Dubai, which takes place from October 20, 2020 to April 10, 2021. A unique festival where every day is unique! See performances by international superstars, which are also broadcast on the world's largest 360-degree projection surface, or admire one of the fascinating parades that take place every day. Discover dishes from the most renowned chefs from around the world. All while you explore 192 breathtaking country pavilions packed with groundbreaking innovations from the brightest minds in the world.

@@ -11,8 +11,9 @@
   max-height: 700px;
   color: $white;
   background-color: $grey;
+  overflow: hidden;
   @include bp($lg){
-    height: 90%;
+    height: 100%;
     min-height: 650px;
     max-height: none;
   }
@@ -58,5 +59,37 @@
       top: 0;
       bottom: auto;
     }
+  }
+  &__bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: $z-content;
+    width: 100%;
+    min-height: 100%;
+    & video {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      height: 100%;
+      display: none;
+      @include bp($lg){ display: block; }
+    }
+    &:before { // needed to replicate background-size: cover behaviour
+      content: '';
+      display: block;
+      width: 100%;
+      padding-top: 56.25%;
+    }
+  }
+  &__bg-video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: $z-content-upper;
+    background-color: rgba(26,32,43,.4);
   }
 }

@@ -1,19 +1,10 @@
 <div class="offer">
-
   <a class="offer__link" href="{{offer.link}}"><span class="btn btn--orange">View Offer</span></a>
-
-  {% if offer.image %}
-    <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')"></div>
-  {% else %}
-    <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/offers/{{offer.id}}.jpg')"></div>
-  {% endif %}
-
+  <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')"></div>
   <div class="offer__content">
-
-    <h3 class="core-title core-title--xs">{{offer.title}}</h3>
+    <h3 class="title title--xs">{{offer.title}}</h3>
     <h4 class="offer__location">{{offer.location}}</h4>
     <div class="offer__description">{{offer.description}}</div>
-
     <div class="offer__bottom">
       {% if offer.saved %}
         <div class="offer__saved">
@@ -28,7 +19,5 @@
       </div>
       <div class="offer__arrow"></div>
     </div>
-
   </div>
-
 </div>
