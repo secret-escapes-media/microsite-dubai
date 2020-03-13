@@ -14,9 +14,11 @@
       </div>
     {% endif %}
   </div>
-  <div class="banner__bg-video">
-    <div class="banner__bg-video-overlay"></div>
-    <video id="banner-video" src="{{site.img}}/content/overview/bg.mp4" height="100%" playsinline loop muted autoplay></video>
+  <div class="banner__bg-video-wrap">
+    <div class="banner__bg-video">
+      <div class="banner__bg-video-overlay"></div>
+      <video id="banner-video" src="{{site.img}}/content/overview/bg.mp4" height="100%" playsinline loop muted autoplay></video>
+    </div>
   </div>
   <div class="banner__nav">
     {% include nav/sections.html %}

@@ -2,7 +2,7 @@
 
 $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
-$nav-width-bp:       640px;
+$nav-width-bp:       600px;
 $nav-color:          $white;
 
 
@@ -110,6 +110,6 @@ $nav-color:          $white;
     left: 0;
     right: 0;
     bottom: auto;
-    z-index: $z-nav  ;
+    z-index: $z-nav;
   }
 }
