@@ -3,6 +3,7 @@ var path         = require('path');
 var del          = require('del');
 var cp           = require('child_process');
 var browserSync  = require('browser-sync');
+var watch        = require('gulp-watch');
 var sass         = require('gulp-sass');
 var sourcemaps   = require('gulp-sourcemaps');
 var autoprefix   = require('gulp-autoprefixer');
@@ -68,6 +69,12 @@ function buildSass() {
 function buildImages() {
   return gulp.src('./_assets/img/**/*.*')
   .pipe(gulp.dest('./_site/_assets/img/'));
+}
+
+// build for font files
+function buildFonts() {
+  return gulp.src('./_assets/font/**/*.*')
+  .pipe(gulp.dest('./_site/_assets/font/'));
 }
 
 // build for main js file
@@ -183,8 +190,8 @@ function compressJs() {
 function compressImages() {
   return gulp.src('./_site/_assets/img/**/*')
   .pipe(image({
-      svgo: ['--disable', 'removeViewBox']
-    }))
+    svgo: ['--disable', 'removeViewBox']
+  }))
   .pipe(gulp.dest('./_site/_assets/img'));
 }
 
@@ -212,6 +219,7 @@ var build = gulp.series(
     buildJekyll,
     buildSass,
     buildImages,
+    // buildFonts,
     buildJsMain,
     buildJs
   )
