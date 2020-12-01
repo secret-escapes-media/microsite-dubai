@@ -8,7 +8,7 @@ description: >
   Dubai – a city risen from seemingly nothing and now a byword for all-out luxury, pushed forward by grand ambition and an electric imagining of the future. This coastal capital is a global pioneer of mind-boggling architecture, haute-couture shopping sprees and comfort of the highest class. Discover it today with our guide to Dubai’s dazzlingly diverse offerings...
 
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
 baseurl: "/uk/2020/dubai" # the subpath of the site, including territory and year
 img:     "/uk/2020/dubai/_assets/img"
 css:     "/uk/2020/dubai/_assets/css"
