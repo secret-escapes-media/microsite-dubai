@@ -1,12 +1,24 @@
 - title: 5* incredible Dubai Hyatt hotel stay - Fully refundable
   location: Grand Hyatt Dubai, UAE
   description: Dazzling five-star award-winning hotel in Dubai
-  price: 96
+  price: 106
   price-description: per room per night
   saved: 75
   expires: 2021-11-04
   image: https://secretescapes-web.imgix.net/hotels/2098/8afff573_f2f8_4c85_86e1_17f323b20bda.jpg?auto=format,compress
   link: https://www.secretescapes.com/5-star-incredible-dubai-hyatt-hotel-stay-fully-refundable-grand-hyatt-dubai-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: Blissful 5* Dubai luxury resort - Fully refundable
+  location: Park Hyatt Dubai, UAE
+  description: Five-star Dubai Park Hyatt with a swish spa
+  price: 133
+  price-description: per room per night
+  saved: 63
+  expires: 2021-10-05
+  image: https://secretescapes-web.imgix.net/hotels/1737/eab8dfdc_413e_4595_9855_ba1459856601.jpg?auto=format,compress
+  link: https://www.secretescapes.com/blissful-5-star-dubai-luxury-resort-fully-refundable-park-hyatt-dubai-uae/sale-hotel
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
@@ -34,18 +46,6 @@
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
-- title: Blissful 5* Dubai luxury resort - Fully refundable
-  location: Park Hyatt Dubai, UAE
-  description: Five-star Dubai Park Hyatt with a swish spa
-  price: 133
-  price-description: per room per night
-  saved: 63
-  expires: 2021-10-05
-  image: https://secretescapes-web.imgix.net/hotels/1737/eab8dfdc_413e_4595_9855_ba1459856601.jpg?auto=format,compress
-  link: https://www.secretescapes.com/blissful-5-star-dubai-luxury-resort-fully-refundable-park-hyatt-dubai-uae/sale-hotel
-  attribute-refundable: true
-  attribute-flights:
-  attribute-customisable:
 - title: Luxurious Dubai hotel with skyline views – Fully refundable
   location: Grand Millennium Dubai, UAE
   description: Luxe Dubai stay with great views and a private beach club
@@ -67,6 +67,42 @@
   expires: 2021-09-10
   image: https://secretescapes-web.imgix.net/hotels/1421/75130d9d_eafb_4aef_b023_891161d0bac8.jpg?auto=format,compress
   link: https://www.secretescapes.com/sleek-5-star-hotel-in-dazzling-dubai-fully-refundable-the-h-dubai-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: 5* luxe hotel in the heart of Dubai - Fully refundable
+  location: Kempinski Hotel Mall of the Emirates Dubai, UAE
+  description: Luxurious five-star Dubai hotel in the heart of the city
+  price: 133
+  price-description: per room per night
+  saved: 54
+  expires: 2021-10-14
+  image: https://secretescapes-web.imgix.net/hotels/1678/a0a8f39b_7d08_47c7_9149_4e840a63d0d7.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-luxe-hotel-in-the-heart-of-dubai-fully-refundable-kempinski-hotel-mall-of-the-emirates-dubai-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: The best of Dubai
+  location: Dubai, United Arab Emirates
+  description: Treat yourself to a unique stay in the UAE with the best of Dubai. Incl. choice of luxury hotel & board & optional excursions
+  price: 79
+  price-description: Based on 2 people for 4 nights
+  saved: 0
+  expires: 2029-01-29
+  image: https://secretescapes-web.imgix.net/webRedirects/119/6fbfafef_a126_490a_b441_512b0c62ef0b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/best-of-dubai-uk/sale-wrd
+  attribute-refundable: true
+  attribute-flights: true
+  attribute-customisable: true"
+- title: 5* Dubai stunner with a rooftop pool - Fully refundable
+  location: Pullman Dubai Jumeirah Lakes Towers, UAE
+  description: Glitzy five-star Dubai pad with rooftop pool
+  price: 54
+  price-description: per room per night
+  saved: 70
+  expires: 2021-10-04
+  image: https://secretescapes-web.imgix.net/hotels/1741/06f92874_581d_457c_8f07_f0feb0e5853c.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-dubai-stunner-with-a-rooftop-pool-fully-refundable-pullman-dubai-jumeirah-lakes-towers-uae/sale-hotel
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
