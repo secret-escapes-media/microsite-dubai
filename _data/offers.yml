@@ -1,27 +1,3 @@
-- title: 5* incredible Dubai Hyatt hotel stay - Fully refundable
-  location: Grand Hyatt Dubai, UAE
-  description: Dazzling five-star award-winning hotel in Dubai
-  price: 106
-  price-description: per room per night
-  saved: 75
-  expires: 2021-11-04
-  image: https://secretescapes-web.imgix.net/hotels/2098/8afff573_f2f8_4c85_86e1_17f323b20bda.jpg?auto=format,compress
-  link: https://www.secretescapes.com/5-star-incredible-dubai-hyatt-hotel-stay-fully-refundable-grand-hyatt-dubai-uae/sale-hotel
-  attribute-refundable: true
-  attribute-flights:
-  attribute-customisable:
-- title: Blissful 5* Dubai luxury resort - Fully refundable
-  location: Park Hyatt Dubai, UAE
-  description: Five-star Dubai Park Hyatt with a swish spa
-  price: 133
-  price-description: per room per night
-  saved: 63
-  expires: 2021-10-05
-  image: https://secretescapes-web.imgix.net/hotels/1737/eab8dfdc_413e_4595_9855_ba1459856601.jpg?auto=format,compress
-  link: https://www.secretescapes.com/blissful-5-star-dubai-luxury-resort-fully-refundable-park-hyatt-dubai-uae/sale-hotel
-  attribute-refundable: true
-  attribute-flights:
-  attribute-customisable:
 - title: 5* luxury Dubai hotel with optional all-inclusive board - Fully refundable
   location: Oaks Ibn Battuta Gate Dubai, UAE
   description: Five-star Dubai luxury near Ibn Battuta Mall
@@ -34,15 +10,15 @@
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
-- title: Sublime Dubai wellness hotel on the Palm Jumeirah - Fully refundable
-  location: The Retreat Palm Dubai Mgallery By Sofitel, UAE
-  description: Stunning Dubai hotel with private beach on the Palm Jumeirah
-  price: 77
+- title: Stylish 5* Dubai beachfront escape – Fully refundable
+  location: Amwaj Rotana, Jumeirah Beach
+  description: Five-star Jumeirah Beach hotel with award-winning dining
+  price: 82
   price-description: per room per night
-  saved: 38
-  expires: 2021-10-18
-  image: https://secretescapes-web.imgix.net/hotels/1872/2ae59c53_7c9f_4eb3_b816_91465164bb40.jpg?auto=format,compress
-  link: https://www.secretescapes.com/sublime-dubai-wellness-hotel-on-the-palm-jumeirah-fully-refundable-the-retreat-palm-dubai-mgallery-by-sofitel-uae/sale-hotel
+  saved: 54
+  expires: 2021-08-26
+  image: https://secretescapes-web.imgix.net/hotels/1091/a13a73d6_2007_453b_807c_c965954bf8f3.jpg?auto=format,compress
+  link: https://www.secretescapes.com/amwaj-rotana-jumeirah-beach-dubai-uae/sale-hotel
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
@@ -51,7 +27,7 @@
   description: Luxe Dubai stay with great views and a private beach club
   price: 46
   price-description: per room per night
-  saved: 71
+  saved: 57
   expires: 2021-08-30
   image: https://secretescapes-web.imgix.net/hotels/1330/5009c112_421d_4ae3_ab94_5dc18acdcaa2.jpg?auto=format,compress
   link: https://www.secretescapes.com/luxurious-dubai-hotel-with-skyline-views-fully-refundable-grand-millennium-dubai-uae/sale-hotel
@@ -70,6 +46,30 @@
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
+- title: 5* luxury hotel on Dubai's Palm Jumeirah - Fully refundable
+  location: Dukes The Palm, a Royal Hideaway Hotel, UAE
+  description: Glam five-star hotel on Dubai's world-famous Palm Jumeirah
+  price: 124
+  price-description: per room per night
+  saved: 30
+  expires: 2021-10-18
+  image: https://secretescapes-web.imgix.net/hotels/1552/dddfaf00_37ac_4a47_b1a6_c3276d3b6f7d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-luxury-hotel-on-dubais-palm-jumeirah-fully-refundable-dukes-the-palm-a-royal-hideaway-hotel-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: Blissful 5* Dubai luxury resort - Fully refundable
+  location: Park Hyatt Dubai, UAE
+  description: Five-star Dubai Park Hyatt with a swish spa
+  price: 133
+  price-description: per room per night
+  saved: 61
+  expires: 2021-10-05
+  image: https://secretescapes-web.imgix.net/hotels/1737/eab8dfdc_413e_4595_9855_ba1459856601.jpg?auto=format,compress
+  link: https://www.secretescapes.com/blissful-5-star-dubai-luxury-resort-fully-refundable-park-hyatt-dubai-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
 - title: 5* luxe hotel in the heart of Dubai - Fully refundable
   location: Kempinski Hotel Mall of the Emirates Dubai, UAE
   description: Luxurious five-star Dubai hotel in the heart of the city
@@ -82,27 +82,99 @@
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
-- title: The best of Dubai
-  location: Dubai, United Arab Emirates
-  description: Treat yourself to a unique stay in the UAE with the best of Dubai. Incl. choice of luxury hotel & board & optional excursions
-  price: 79
-  price-description: Based on 2 people for 4 nights
-  saved: 0
-  expires: 2029-01-29
-  image: https://secretescapes-web.imgix.net/webRedirects/119/6fbfafef_a126_490a_b441_512b0c62ef0b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/best-of-dubai-uk/sale-wrd
-  attribute-refundable: true
-  attribute-flights: true
-  attribute-customisable: true"
 - title: 5* Dubai stunner with a rooftop pool - Fully refundable
   location: Pullman Dubai Jumeirah Lakes Towers, UAE
-  description: Glitzy five-star Dubai pad with rooftop pool
+  description: Glitzy five-star Dubai pad with rooftop pool and New Year's Eve dates
   price: 54
   price-description: per room per night
   saved: 70
   expires: 2021-10-04
   image: https://secretescapes-web.imgix.net/hotels/1741/06f92874_581d_457c_8f07_f0feb0e5853c.jpg?auto=format,compress
   link: https://www.secretescapes.com/5-star-dubai-stunner-with-a-rooftop-pool-fully-refundable-pullman-dubai-jumeirah-lakes-towers-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: 5* indulgent Dubai stay on the beach - Fully refundable
+  location: Habtoor Grand Resort, Autograph Collection, UAE
+  description: Five-star Jumeirah beach stay in Dubai
+  price: 117
+  price-description: per room per night
+  saved: 54
+  expires: 2021-10-10
+  image: https://secretescapes-web.imgix.net/hotels/1813/2095bc10_8cfd_44eb_8cee_ae091028622b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-indulgent-dubai-stay-on-the-beach-fully-refundable-habtoor-grand-resort-autograph-collection-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: Sublime Dubai wellness hotel on the Palm Jumeirah - Fully refundable
+  location: The Retreat Palm Dubai Mgallery By Sofitel, UAE
+  description: Stunning Dubai hotel with private beach on the Palm Jumeirah
+  price: 86
+  price-description: per room per night
+  saved: 56
+  expires: 2021-10-18
+  image: https://secretescapes-web.imgix.net/hotels/1872/2ae59c53_7c9f_4eb3_b816_91465164bb40.jpg?auto=format,compress
+  link: https://www.secretescapes.com/sublime-dubai-wellness-hotel-on-the-palm-jumeirah-fully-refundable-the-retreat-palm-dubai-mgallery-by-sofitel-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: 5* incredible Dubai Hyatt hotel stay - Fully refundable
+  location: Grand Hyatt Dubai, UAE
+  description: Dazzling five-star award-winning hotel in Dubai
+  price: 106
+  price-description: per room per night
+  saved: 75
+  expires: 2021-11-04
+  image: https://secretescapes-web.imgix.net/hotels/2098/8afff573_f2f8_4c85_86e1_17f323b20bda.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-incredible-dubai-hyatt-hotel-stay-fully-refundable-grand-hyatt-dubai-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: 5* Dubai hotel with Jumeirah Lake views - Fully refundable
+  location: Mövenpick Hotel Jumeirah Lakes Towers, UAE
+  description: A five-star stay in dazzling Dubai with views of Jumeirah Lakes
+  price: 58
+  price-description: per room per night
+  saved: 55
+  expires: 2021-11-12
+  image: https://secretescapes-web.imgix.net/hotels/2172/764b1bb2_4894_4472_a6f2_6a29a3abaea1.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-dubai-hotel-with-jumeirah-lake-views-fully-refundable-movenpick-hotel-jumeirah-lakes-towers-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: New 5* Andaz hotel on Dubai's famed Palm Jumeirah - Fully refundable
+  location: Andaz by Hyatt Palm Jumeirah, UAE
+  description: Five-star Andaz hotel on Dubai’s Palm Jumeirah
+  price: 103
+  price-description: per room per night
+  saved: 65
+  expires: 2021-12-14
+  image: https://secretescapes-web.imgix.net/hotels/2263/ac7fbaaa_6564_4b1e_820d_7130f2863d63.jpg?auto=format,compress
+  link: https://www.secretescapes.com/new-5-star-andaz-hotel-on-dubais-famed-palm-jumeirah-fully-refundable-andaz-by-hyatt-palm-jumeirah-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: 5* luxurious Dubai hotel with two rooftop pools - Fully refundable
+  location: Fairmont Dubai, UAE
+  description: Five-star Dubai city slicker with rooftop pools
+  price: 69
+  price-description: per room per night
+  saved: 74
+  expires: 2021-12-09
+  image: https://secretescapes-web.imgix.net/hotels/2309/1a0f3e97_9983_4558_9dc0_29172eea5e81.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-luxurious-dubai-hotel-with-two-rooftop-pools-fully-refundable-fairmont-dubai-uae/sale-hotel
+  attribute-refundable: true
+  attribute-flights:
+  attribute-customisable:
+- title: 5* luxury Dubai stay brimming with style - Fully refundable
+  location: Hyatt Regency Dubai, UAE
+  description: Slick five-star hotel with Dubai's only revolving restaurant
+  price: 46
+  price-description: per room per night
+  saved: 49
+  expires: 2021-12-14
+  image: https://secretescapes-web.imgix.net/hotels/2336/01af2cbe_2d1e_435e_8396_475574ff8e80.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-luxury-dubai-stay-brimming-with-style-fully-refundable-hyatt-regency-dubai-uae/sale-hotel
   attribute-refundable: true
   attribute-flights:
   attribute-customisable:
